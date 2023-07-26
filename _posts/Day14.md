@@ -1,0 +1,11 @@
+DAY-14
+
+
+Hi , reader today it was my day 134 for training at **RYAZ.io** and today I firstly worked on the wwebpage that I have started yersterday .today I have made the :
+  
+* features part for my wepage
+* made reponsivess
+* stated the control panel part 
+  
+and so on I have mostly used flexbox and grid in my work and I have tried to update my blog page by using the theme daattali for my blogs pages but I am was facing the issue of jeklly and bundler for setting up the Gem file but not able to solve it I tried to google the stuff but I was not able to get the solution
+But I will be trying to solve it as soon as possible so that the I could update my bloging wesite with a beautifull UI so that they look good.

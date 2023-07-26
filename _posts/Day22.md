@@ -1,0 +1,16 @@
+DAY-22
+
+Hi,reader today it was my day 22 of training at **RYAZ.io** nd today I firstrly gothrough
+
+* Concepts for control Flow statements
+* Solved some exercise on for loops and If else statement
+* Learnt about Truth and Falsy 
+* Started with object
+* Learnt various new this about objeects:
+   * How to create object 
+   * How to create multiple objects inside objects
+   * How to created function inside an objects
+   * How to add key prperties after declearning an object
+   * How use Factory and Constuructor function
+
+and so on . aAlso I faced an issue in solving an exercie on control flow statement but I was able to correct  there was an spelling error in my code .I found other exercise easy and then after that I started about objects and found objects to be intresting and execitefull as some concepts were new to me like calling function which is another function inside an object but I took me some time be understand some concepts fully properly due to thst I was not able to complete that part and I will be doing it and next part in next days.

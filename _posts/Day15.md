@@ -1,0 +1,11 @@
+DAY-15
+
+Hi, reader today it was my day 15 for traininfg at **RYAZ.io** and I have done many things:
+
+* worked on my wepage
+* designed user control ui for my wepage
+* build customer review box 
+* update the old code
+* added more reponsiveness
+
+and so on I have done many new good looing and responsive changes to my webpage .I also have played the flexbox frogy game which appeared to be more knowldgeable as it enhances my knowledge of flexbox with this my flexbox concept got revised. Also I have update some transition for website for cards. 

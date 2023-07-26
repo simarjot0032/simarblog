@@ -1,0 +1,92 @@
+DAY-27
+
+
+
+Hi,reader today it was my day 27 of training at **RYAZ.io** and today I learnt many things:
+
+
+* How to select an element using dom
+    * getElementById:
+    ```javascript
+    {
+    let getid=document.getElementById('id');
+    console.log(getid);
+    }
+    ```
+    * getElementByClassName
+    ```javascript
+    {
+    let getclass=document.getElementsByClassName('classname');
+    console.log(getclass);
+    }
+    ```
+    * getElementByTagName
+    ```javascript
+    {
+    let gettag=document.getElementsByTagName('tagname');
+    console.log(gettag);
+    }
+    ```
+    * querySelector
+    ```javascript
+    {
+        let getqu=document.querySelector('.class_name');
+        console.log(getqu);
+    }
+    ```
+    * querySelectorAll
+    ```javascript
+    {
+        let getquall=document.querySelectorAll('.class_name');
+        console.log(getquall);
+    }
+    ```
+* How to style an element
+     ```javascript
+     {
+        let headings=document.getElementsByClassName('heading')[0];
+        headings.style.color='red';
+        console.log(headings);
+     }
+     ```
+    ```javascript
+    {
+        let divs=document.getElementsByClassName('box');
+        console.log(divs);
+        for(let i=0;i<divs.length;i++){
+        divs[i].style.borderRadius='20px';
+        divs[i].style.fontSize='40px';
+        }
+    }
+    ```
+* How to create element
+  ```javascript
+  {
+    let another_div=document.createElement('div');
+    another_div.className='box';
+    let target=document.getElementsByClassName('div-hollywood')[0];
+    another_div.innerHTML='Fast and Furious';
+    target.append(another_div);
+  }
+  ```
+* What is dom tree
+* How to know the sibling of and element
+
+
+
+
+    ```javascript
+    {
+    box=document.getElementsByClassName('box');
+    console.log(box);
+    for(let i=0;i<box.length;i++){
+        console.log(box[i]);
+    }
+    console.log(childn.nextElementSibling);
+    console.log(childn.previousElementSibling);
+
+    }
+    ```
+
+
+and so on.Today I also learnt about the parent and child relationship in DOM.Today I have faced many difficulties in solving the problem in selecting a class with for elemnts but I found the error and correct it as we have to use loop for this.And I will be doing futher in next days.

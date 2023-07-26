@@ -1,0 +1,11 @@
+DAY-17
+
+Hi ,reader it was my day 17 of training at **RYAZ.io** and today I worked on the project for desiging the webpage that I have started yersterday and today I worked on making it more correct:
+
+* Developed responsiveness
+* Watchcards
+* Updated the symbol
+* Adjust margins
+* Developed color indicator
+
+ and so on . I faced my diffculites in making webpage responsiveness but by using some properties of flex and grid I was able to do it . I also pushed code to github and  so that I tack track the diff for my codes. But I was not able to make it 100percent matchning to the design but I will be making it in  next Days so that my skills can be developed and I can design more webpages.
