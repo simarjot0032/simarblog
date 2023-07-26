@@ -3,6 +3,7 @@ layout: post
 ---
 
 #DAY-1
+
 Hello reader this is my first ever blog so, I don't konw how to write blog effectively.
 Today at m 1st day of training at RYAZ.IO . I found it very intresting .My Mentor Amanjot singh is quite helpful and supportive and other members of RYAZ.IO are also very helpful,
 I have learnt  and revised HTML5 tags in which i have also learnt some new HTML5 
