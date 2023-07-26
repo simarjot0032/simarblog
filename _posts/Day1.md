@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Day1
 ---
 
 #DAY-1
