@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Day1
+title: Sample blog post to learn markdown tips
+subtitle: There's lots to learn!
+gh-badge: [star, fork, follow]
+comments: true
 ---
-
 #DAY-1
 
 Hello reader this is my first ever blog so, I don't konw how to write blog effectively.
