@@ -2,7 +2,7 @@
 
 My name is Simarjot Singh. I have the following qualities:
 
-- I rock a great mustache
+- Love to do code
 - I'm extremely loyal to my family
 
 ### My story
